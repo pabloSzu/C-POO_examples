@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/exit.png</file>
+        <file>imagenes/folder_search.png</file>
+        <file>imagenes/new.png</file>
+        <file>imagenes/opened.png</file>
+        <file>imagenes/option.png</file>
+        <file>imagenes/save.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+#ifndef VENTANA_H
+#define VENTANA_H
+
+#include <QWidget>
+
+namespace Ui {
+class Ventana;
+}
+
+class Ventana : public QWidget{
+    Q_OBJECT
+
+public:
+    explicit Ventana( QWidget *parent = 0 );
+    ~Ventana();
+
+private:
+    Ui::Ventana *ui;
+
+signals:
+    void signal_cerrarSesion();
+
+private slots:
+    void slot_pbCerrarSesion();
+};
+
+#endif // VENTANA_H

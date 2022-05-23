@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>formulario</class>
+ <widget class="QWidget" name="formulario">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>300</width>
+    <height>200</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>formulario</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="LineaDeTexto" name="le1"/>
+   </item>
+   <item>
+    <widget class="LineaDeTexto" name="le2"/>
+   </item>
+   <item>
+    <widget class="LineaDeTexto" name="le3"/>
+   </item>
+   <item>
+    <widget class="LineaDeTexto" name="le4"/>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>LineaDeTexto</class>
+   <extends>QLineEdit</extends>
+   <header location="global">lineadetexto.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

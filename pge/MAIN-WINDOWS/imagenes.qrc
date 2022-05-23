@@ -1,0 +1,82 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iconos/Add Bookmark.ico</file>
+        <file>iconos/Add Card.ico</file>
+        <file>iconos/Add Folder.ico</file>
+        <file>iconos/Add Separator.ico</file>
+        <file>iconos/Add Tab.ico</file>
+        <file>iconos/Add to Favourites.ico</file>
+        <file>iconos/Add Window 1.ico</file>
+        <file>iconos/Add Window 2.ico</file>
+        <file>iconos/Address Book.ico</file>
+        <file>iconos/Advanced Options.ico</file>
+        <file>iconos/Anchor.ico</file>
+        <file>iconos/Attach.ico</file>
+        <file>iconos/Back - Previous.ico</file>
+        <file>iconos/Back 2.ico</file>
+        <file>iconos/Block Junk Mail.ico</file>
+        <file>iconos/Bookmarks 1.ico</file>
+        <file>iconos/Bookmarks 2.ico</file>
+        <file>iconos/Bookmarks 3.ico</file>
+        <file>iconos/Bookmarks 4.ico</file>
+        <file>iconos/Browse 1.ico</file>
+        <file>iconos/Browse 2.ico</file>
+        <file>iconos/Browse 3.ico</file>
+        <file>iconos/Calendar Day.ico</file>
+        <file>iconos/Calendar Month.ico</file>
+        <file>iconos/Calendar Multiweek.ico</file>
+        <file>iconos/Calendar Week.ico</file>
+        <file>iconos/Chat 2.ico</file>
+        <file>iconos/Chat.ico</file>
+        <file>iconos/Contacts.ico</file>
+        <file>iconos/Copy.ico</file>
+        <file>iconos/Cut.ico</file>
+        <file>iconos/Delete.ico</file>
+        <file>iconos/Download.ico</file>
+        <file>iconos/Email App Icon.ico</file>
+        <file>iconos/Email Display.ico</file>
+        <file>iconos/Email Envelope.ico</file>
+        <file>iconos/Extensions.ico</file>
+        <file>iconos/Favourites.ico</file>
+        <file>iconos/File.ico</file>
+        <file>iconos/Fonts 1.ico</file>
+        <file>iconos/Fonts 2.ico</file>
+        <file>iconos/Forward - Next.ico</file>
+        <file>iconos/Forward 2.ico</file>
+        <file>iconos/Forward Email.ico</file>
+        <file>iconos/General Options.ico</file>
+        <file>iconos/Get Mail.ico</file>
+        <file>iconos/Go.ico</file>
+        <file>iconos/H. Line.ico</file>
+        <file>iconos/Link.ico</file>
+        <file>iconos/List.ico</file>
+        <file>iconos/Move.ico</file>
+        <file>iconos/New Doc.ico</file>
+        <file>iconos/New Folder.ico</file>
+        <file>iconos/New Window.ico</file>
+        <file>iconos/Paste.ico</file>
+        <file>iconos/Print.ico</file>
+        <file>iconos/Properties.ico</file>
+        <file>iconos/Publish.ico</file>
+        <file>iconos/Quote 2.ico</file>
+        <file>iconos/Quote.ico</file>
+        <file>iconos/Refresh.ico</file>
+        <file>iconos/Rename - Edit.ico</file>
+        <file>iconos/Reply to All.ico</file>
+        <file>iconos/Reply.ico</file>
+        <file>iconos/Save.ico</file>
+        <file>iconos/Search.ico</file>
+        <file>iconos/Security.ico</file>
+        <file>iconos/Send 2.ico</file>
+        <file>iconos/Send Later.ico</file>
+        <file>iconos/Send.ico</file>
+        <file>iconos/Spell.ico</file>
+        <file>iconos/Stop 2.ico</file>
+        <file>iconos/Stop.ico</file>
+        <file>iconos/Table 1.ico</file>
+        <file>iconos/Themes 2.ico</file>
+        <file>iconos/Themes.ico</file>
+        <file>iconos/View Doc.ico</file>
+        <file>iconos/Write.ico</file>
+    </qresource>
+</RCC>
